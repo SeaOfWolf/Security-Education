@@ -7,7 +7,7 @@ Here you'll find some pared down security education resources, I've tried to not
 ---
 
 # The Stuff I Use and Like 🖤
-It's way too easy to get overloaded trying to "keep up to date", especially inb security. I used to subscribe to loads of newsletters and listen to a bunch of podcasts but now I've stripped it all back and below are a few of the things I like and resources I turn to:
+It's way too easy to get overloaded trying to "keep up to date", especially in security. I used to subscribe to loads of newsletters and listen to a bunch of podcasts but now I've stripped it all back and below are a few of the things I like and resources I turn to:
 
 ## Podcasts 🎙️
 ### Risky Biz Podcast
@@ -20,7 +20,7 @@ It's way too easy to get overloaded trying to "keep up to date", especially inb 
 ### tl;dr sec
 **Creator**: Clint Gibler
 [https://tldrsec.com/](https://tldrsec.com/)
--  _"Great resource for reasearch, tools, tips and other bits in security. I had this recommened too me by almost all the folks on an AppSec team I was on. Clint is Head of Security Research @semgrep."_
+-  _“Great resource for reasearch, tools, tips and other bits in security. I had this recommended to me by almost all the folks on an AppSec team I was on. Clint is Head of Security Research @semgrep.”_
 
 ### Risky Biz News
 **Author**: Catilin Cimpanu
@@ -69,20 +69,20 @@ One of my favourite resources for books in security is the Ohio State University
 ## Communication 📟
 
 **Comments that are easy to grok**: [Conventional Comments](https://conventionalcomments.org/)
-- Conventional comments are often used in software development but these kinds of guides and helpers can be used anywhere, giving feedback in a doc? Replying in a thread on Slack? _"Labeling comments encourages collaboration and saves hours of undercommunication and misunderstandings"_.
+- Conventional comments are often used in software development but these kinds of guides and helpers can be used anywhere, giving feedback in a doc? Replying in a thread on Slack? _"Labelling comments encourages collaboration and saves hours of undercommunication and misunderstandings"_.
 
 **Blameless Retrospectives**: [Who Destroyed Three Mile Island? - Nickolas Means](https://youtu.be/1xQeXOz0Ncs?si=_ASgh_32Xgo9BPry)
-- A great talk, draws you in talking about the Three Mile Island nuclear incident and really hammers home the importance of system design and blameless retrospectives, searching for "second stories" as a key to learning and adapting. Find the real casues, look for what's wrong in the way the system is designed, don't blame people!
+- A great talk, draws you in talking about the Three Mile Island nuclear incident and really hammers home the importance of system design and blameless retrospectives, searching for "second stories" as a key to learning and adapting. Find the real causes, look for what's wrong in the way the system is designed, don't blame people!
 
 **Communications Centre of Excellence**: [Disernible](https://discernibleinc.com/)
-- There's a great newsletter which I mentioned above but also loads of blog posts that are great to read and plenty of posts on LinkedIn if that's your thing, focussed on secuity and privacy and how good communication is everything.
+- There's a great newsletter which I mentioned above but also loads of blog posts that are great to read and plenty of posts on LinkedIn if that's your thing, focussed on security and privacy and how good communication is everything.
 
 ---
 
 ## Tools 🛠️
 
 **Note taking**: I use [Obsidian](https://obsidian.md/)
-- There is a whole industry on youtube of people chasing the perfect productivity and switching apps every two seconds. I've learnt that just finding something you mostly like and sticking with it, maybe a little bit of refining workks best. Otherwise all that productivity goes on learning and messing with new productivity tools. Robert Kerby turned me onto Obsidian and I'm a big fan, easy to use for the most part and I can easy integrate it into other things so notes are getting thrown into there for me to refer to later.
+- There is a whole industry on youtube of people chasing the perfect productivity and switching apps every two seconds. I've learnt that just finding something you mostly like and sticking with it, maybe a little bit of refining works best. Otherwise all that productivity goes on learning and messing with new productivity tools. Robert Kerby turned me onto Obsidian and I'm a big fan, easy to use for the most part and I can easy integrate it into other things so notes are getting thrown into there for me to refer to later.
 
 **Collating Stuff**: I collate stuff in one place using [Readwise Reader](https://readwise.io/read)
 - This is something new for me and instead of death by emails and bookmarks I now just chuck papers, blog posts, articles and have all newsletters run through this. The best part is that I can highlight things and make notes on there, these notes then sync to Obsidian and now I have something in my vault. Can do the same with Youtube videos too and it works for me.
@@ -91,13 +91,13 @@ One of my favourite resources for books in security is the Ohio State University
 - Nice to work with, split views are great and I like [OhMyZSH](https://ohmyz.sh/) to make things look nicer
 
 **Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
-- Accesibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible deciisons from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
+- Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
 
 ---
 
 ## Security papers 📜
 
-A collection of `seminal` papers folks have suggested, meaning that they should remain relatively fresh as they are considered highly influencial. Note, this isn't a list of "the best security papers", you don't have to (and maybe shouldn't) agree with everything written, read critically. Some of these are grabbed from [some collecting the amazing Helen Patton did](https://hpatton.medium.com/a-curated-list-of-security-readings-65de623e9c48.).
+A collection of `seminal` papers folks have suggested, meaning that they should remain relatively fresh as they are considered highly influential. Note, this isn't a list of "the best security papers", you don't have to (and maybe shouldn't) agree with everything written, read critically. Some of these are grabbed from [some collecting the amazing Helen Patton did](https://hpatton.medium.com/a-curated-list-of-security-readings-65de623e9c48.).
 
 **New to academic literature?**
 _Skim judiciously_. You can get the key ideas of most papers just by reading the abstract, the introduction, and conclusion sections. After that, dive deeper into the other sections if you’re interested. [How to read a paper](https://github.com/papers-we-love/papers-we-love?tab=readme-ov-file#how-to-read-a-paper) (this github repo is an excellent resource called Papers We Love, worth checking out for papers across soooo many topics).
@@ -135,7 +135,7 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 - If certs are your thing this site is the best I've come across for sectioning them and listing them out, has pricing in there (in USD)
 
 **Papers**: https://github.com/papers-we-love/papers-we-love?tab=readme-ov-file
-- A `HUGE` resource for papers that is kept pretty up to date, mentioned it above but might have something of interest burried in there
+- A `HUGE` resource for papers that is kept pretty up to date, mentioned it above but might have something of interest buried in there
 
 **Starting Up Security**: https://scrty.io/
 - Ryan McGeehan's excellent writing aimed at new leadership for new security teams
