@@ -12,25 +12,24 @@ It's way too easy to get overloaded trying to "keep up to date", especially inb 
 ## Podcasts 🎙️
 ### Risky Biz Podcast
 **Host**: Patrick Gray
-http://risky.biz/netcasts/risky-business | {{< button label="Link" link="http://risky.biz/netcasts/risky-business" style="solid" >}}
--  _"Easily my favourite, no fluff and a nice international view of the security news and world with some great guests"_
+[http://risky.biz/netcasts/risky-business](https://risky.biz/netcasts/risky-business)
 
 ---
 
 ## Newsletters 🗞️
 ### tl;dr sec
 **Creator**: Clint Gibler
-{{< button label="Link" link="https://tldrsec.com/" >}}
+[https://tldrsec.com/](https://tldrsec.com/)
 -  _"Great resource for reasearch, tools, tips and other bits in security. I had this recommened too me by almost all the folks on an AppSec team I was on. Clint is Head of Security Research @semgrep."_
 
 ### Risky Biz News
 **Author**: Catilin Cimpanu
-{{< button label="Link" link="https://riskybiznews.substack.com/" >}}
+[https://riskybiznews.substack.com/](https://riskybiznews.substack.com/)
 - _"Really nice short and punchy newsletter, easy to skim through and grab out the latest things going on with some great stuff delivered a couple of times a week, there's a podcast too but I like the newsletter"_
 
 ### Disernible
 **Authors**: Whole team of amazing people
-{{< button label="Link" link="https://discernibleinc.com/newsletter-signup" >}}
+[https://discernibleinc.com/newsletter-signup](https://discernibleinc.com/newsletter-signup)
 - _"Excellent content spanning across security and privacy, with a focus on communication, one of, if not, `the` most valuable thing in security"_
 
 ---
