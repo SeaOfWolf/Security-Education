@@ -1,6 +1,7 @@
 # Security-Education
 
 Here you'll find some pared down security education resources, I've tried to not leave a dump of _all the security education things ever_ and instead offer something tailored and curated. There are some amazing resources and repos out there filled with loads of stuff and some will be linked in here. There are `non-cyber` materials here as well, as there is much to learn that can be brought into security 😁
+
 ![Image of a Compact Disc with 404 acronym not found written at the top and at the bottom Cybersecurity Shoe Gaze](https://github.com/SeaOfWolf/Security-Education/assets/74056066/0d9e1ca6-37d1-436e-b2e9-fcf9ae13ad5b)
 
 ---
