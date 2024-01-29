@@ -88,7 +88,7 @@ One of my favourite resources for books in security is the Ohio State University
 - This is something new for me and instead of death by emails and bookmarks I now just chuck papers, blog posts, articles and have all newsletters run through this. The best part is that I can highlight things and make notes on there, these notes then sync to Obsidian and now I have something in my vault. Can do the same with Youtube videos too and it works for me.
 
 **Terminal**: [iTerm2](https://iterm2.com/)
-- Nice to work, split views are the best with and I like [OhMyZSH](https://ohmyz.sh/) to make it look nice
+- Nice to work with, split views are great and I like [OhMyZSH](https://ohmyz.sh/) to make things look nicer
 
 **Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
 - Accesibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible deciisons from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
