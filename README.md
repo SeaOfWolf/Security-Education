@@ -1,6 +1,6 @@
 # Security-Education
 
-Here you'll find some pared down security education resources, I've tried to not leave a dump of _all the security education things ever_ and instead offer something tailored and curated. There are some amazing resources and repos out there filled with loads of stuff and some will be linked in here. There are `non-cyber` materials here as well, as there is much to learn that can be brought into security 😁
+Here you'll find some pared down security education resources, I've tried to not leave a dump of _all the security education things ever_ and instead offer something tailored and curated. There are some amazing resources and repos out there filled with loads of stuff and some will be linked in here. There are plenty of `non-security` materials here as well, as there is much to learn that can be brought into security 😁
 
 ![Image of a Compact Disc with 404 acronym not found written at the top and at the bottom Cybersecurity Shoe Gaze](https://github.com/SeaOfWolf/Security-Education/assets/74056066/0d9e1ca6-37d1-436e-b2e9-fcf9ae13ad5b)
 
@@ -79,22 +79,6 @@ One of my favourite resources for books in security is the Ohio State University
 
 ---
 
-## Tools 🛠️
-
-**Note taking**: I use [Obsidian](https://obsidian.md/)
-- There is a whole industry on youtube of people chasing the perfect productivity and switching apps every two seconds. I've learnt that just finding something you mostly like and sticking with it, maybe a little bit of refining works best. Otherwise all that productivity goes on learning and messing with new productivity tools. Robert Kerby turned me onto Obsidian and I'm a big fan, easy to use for the most part and I can easy integrate it into other things so notes are getting thrown into there for me to refer to later.
-
-**Collating Stuff**: I collate stuff in one place using [Readwise Reader](https://readwise.io/read)
-- This is something new for me and instead of death by emails and bookmarks I now just chuck papers, blog posts, articles and have all newsletters run through this. The best part is that I can highlight things and make notes on there, these notes then sync to Obsidian and now I have something in my vault. Can do the same with Youtube videos too and it works for me.
-
-**Terminal**: [iTerm2](https://iterm2.com/)
-- Nice to work with, split views are great and I like [OhMyZSH](https://ohmyz.sh/) to make things look nicer
-
-**Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
-- Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
-
----
-
 ## Security papers 📜
 
 A collection of `seminal` papers folks have suggested, meaning that they should remain relatively fresh as they are considered highly influential. Note, this isn't a list of "the best security papers", you don't have to (and maybe shouldn't) agree with everything written, read critically. Some of these are grabbed from [some collecting the amazing Helen Patton did](https://hpatton.medium.com/a-curated-list-of-security-readings-65de623e9c48.).
@@ -120,6 +104,22 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 | [The Moral Character of Cryptographic Work](https://eprint.iacr.org/2015/1162.pdf) | Phillip Rogaway | 2015 | The moral aspects of our security work. |
 | [An investigation of the Therac-25 accidents](https://escholarship.org/uc/item/5dr206s3) | Leveson, Nancy G., Turner, Clark S. | 1993 | It may not be directly security related, but it deals with system assumptions and the failures of those systems. |
 | [Opportunity Cost and Missed Chances in Optimizing Cybersecurity](https://queue.acm.org/detail.cfm?id=3588041) | Kelly Shortridge, Josiah Dykstra | 2023  | A strong recommendation for security teams, though this lays out a great way of approaching things for all teams. As we think about how we operate, and the services we offer, the concepts raised in this article are important to consider and working from a `null baseline` _"the costs and benefits of an option must be compared with those of doing nothing. This is known as the null baseline."_. |
+
+---
+
+## Tools 🛠️
+
+**Note Taking**: I use [Obsidian](https://obsidian.md/)
+- There is a whole industry on youtube of people chasing the perfect productivity and switching apps every two seconds. I've learnt that just finding something you mostly like and sticking with it, maybe a little bit of refining works best. Otherwise all that productivity goes on learning and messing with new productivity tools. Robert Kerby turned me onto Obsidian and I'm a big fan, easy to use for the most part and I can easy integrate it into other things so notes are getting thrown into there for me to refer to later.
+
+**Collating Information**: I collate stuff in one place using [Readwise Reader](https://readwise.io/read)
+- This is something new for me and instead of death by emails and bookmarks I now just chuck papers, blog posts, articles and have all newsletters run through this. The best part is that I can highlight things and make notes on there, these notes then sync to Obsidian and now I have something in my vault. Can do the same with Youtube videos too and it works for me.
+
+**CLI**: [iTerm2](https://iterm2.com/)
+- Nice to work with, split views are great and [OhMyZSH](https://ohmyz.sh/) just makes things look so nice and clean.
+
+**Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
+- Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
 
 ---
 
