@@ -6,13 +6,17 @@ Here you'll find some pared down security education resources, I've tried to not
 
 ---
 
-# The Stuff I Use and Like 🖤
+# The Things I Use and Like
 It's way too easy to get overloaded trying to "keep up to date", especially in security. I used to subscribe to loads of newsletters and listen to a bunch of podcasts but now I've stripped it all back and below are a few of the things I like and resources I turn to:
 
 ## Podcasts 🎙️
 ### Risky Biz Podcast
-**Host**: Patrick Gray
+**Host**: Patrick Gray and Adam Boileau
 [http://risky.biz/netcasts/risky-business](https://risky.biz/netcasts/risky-business)
+
+### Security Cryptography Whatever
+**Hosts**: David Adrian, Deirdre Connolly, and Thomas Ptacek
+[https://securitycryptographywhatever.com/about/](https://securitycryptographywhatever.com/about/)
 
 ---
 
