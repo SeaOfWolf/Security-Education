@@ -49,15 +49,14 @@ A short list of some books I've enjoyed, some may be security adjacent, there is
 | Mismatch - How Inclusion Shapes Design | Kat Holmes | 2020 | "Such an approachable book, that talks about the responsibility of inclusion, and how this can and should be a source of innovation and growth. Kat describes how inclusive design is a process and not just an outcome, and the importance of ensuring this is not a retroactive action. Kat suggests part of this process is to build an extended network of _"exclusion experts"_ who contribute to your design process, which I love. I believe anyone could take something from this book, it's not just for "designers" in the way you might read that traditionally, almost everyone is a designer in some way, creating solutions or working on a project, initiative or program that serves communities.If you're in security have a quick think about this quote: _"Designing with our own abilities as a baseline can lead to solutions that work well for people with similar abilities, but can end up excluding many more people"_" |
 | Threat Modeling: Designing for Security | Adam Shostack | 2014 | "This is the reference guide for understanding threat modeling for software. Microsoft-focused, but applicable more broadly. Find tools and a framework for structured thinking about what can go wrong and accessibly learn to discern changing threats and discover the easiest ways to adopt a structured approach to threat modeling. Authored by a Microsoft professional who is one of the most prominent threat modeling experts in the world" |
 | Zero Trust Networks: Building Secure Systems in Untrusted Networks | Evan Gilman & Doug Barth | 2017 | "This book was used as a great starter for new joiners at Duo introducing an understanding to the principles of Zero Trust" |
+| Cult of the Dead Cow | Joseph Menn | 1994 | ”This was a fun read, recognising people and all the different things that have happened over the years. I enjoyed the focus on ethics and moral issues within tech & I of course smiled with every mention and quote from Dug Song (I'm entirely biased reading this!), knowing and having experienced how much of an extraordinary leader and person he is. I re-read this line Joseph wrote a few times: _"Song believes that professional ethics require him to contribute to the social good”_. I was lucky enough to spend some great moments with Dug and cannot understate the impact that he had on me and my journey in security and how that guides me now. There were so many amazing people in Duo, and Cisco, that had a profound impact on the way I think about and understand security, and I still learn from them all the time. Dug really solidified my belief that we all have the power for change and impact, and can make differences for good.Back to the book, well worth a read.” |
+| Teaching to Transgress - Education as the Practise of Freedom | Bell Hooks | 1994 | “This was a stunning book. I enjoyed all the ways in which Bell Hooks talks about teaching and the phrase education as the practise of freedom has really stuck with me. Though US-centric at times this book amplifies the importance and responsibility that comes with teaching. Although the perspective is from teaching in the higher education system this of course applies to all teaching moments, that could even be a workshop at work or even a presentation. The classroom should never be a boring place. If that is the case, pedagogical practises should look to change and interrupt, perhaps disrupt this. An excellent read, part of 3 essays and next I’ll look to check out Teaching Community.” |
 
 One of my favourite resources for books in security is the Ohio State University Cyber Canon: https://icdt.osu.edu/cybercanon/bookreviews
 
 ---
 
 ## Some of my Favourite Articles 📄
-
-"[Coordination Headwind - How organizations Are Like Slime Mould](https://komoroske.com/slime-mold/)" by [Alex Komoroske](https://komoroske.com/)
-- I love this for many reasons, great content, presented in an approachable and fun way. Well worth the time flipping through. Talks about the headwinds that can occur and in orgs and thoughts on what you can do. Also Slime Moulds are amazing, there's a fun rabbit hole to fall down here: https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/
 
 "[Alienating the Audience: How Abbreviations Hamper Scientific Communication](https://www.psychologicalscience.org/observer/alienating-the-audience-how-abbreviations-hamper-scientific-communication)" by Andrew H. Hales, Kipling D. Williams, and Joel Rector 
 - I have a strong dislike for acronyms and initialisms, the exclusive nature of them frustrates me, and security is rife with them! This is an interesting piece of writing on the topic of abbreviations with a lot of linked research to check out. Here's another article with an example of how Shopify moved to encouraging clarity and accessibility for all: https://slab.com/blog/shopify-highly-aligned-loosely-coupled/
@@ -67,6 +66,9 @@ One of my favourite resources for books in security is the Ohio State University
 
 "[Safety Hierarchy: Design Vs. Warnings](https://www.visualexpert.com/Resources/safetyhierarchy.html)" by Dr. Marc Green
 - Human Factors has so much to teach us in security, this is a great article from Marc Green talking about warnings and design. _"Conversely, businesses and authorities can promote safety based on the realities of human nature and on what people actually do rather than what would be convenient for them to do"_. Dr. Green is referenced a few times in Kelly Shortridge's amazing book [Security Chaos Engineering](https://www.securitychaoseng.com/)
+
+"[Coordination Headwind - How organizations Are Like Slime Mould](https://komoroske.com/slime-mold/)" by [Alex Komoroske](https://komoroske.com/)
+- I love this for many reasons, great content, presented in an approachable and fun way. Well worth the time flipping through. Talks about the headwinds that can occur and in orgs and thoughts on what you can do. Also Slime Moulds are amazing, there's a fun rabbit hole to fall down here: https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/
 
 ---
 
@@ -111,7 +113,7 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 
 ---
 
-## Tools 🛠️
+## Tooling 🛠️
 
 **Note Taking**: I use [Obsidian](https://obsidian.md/)
 - There is a whole industry on youtube of people chasing the perfect productivity and switching apps every two seconds. I've learnt that just finding something you mostly like and sticking with it, maybe a little bit of refining works best. Otherwise all that productivity goes on learning and messing with new productivity tools. Robert Kerby turned me onto Obsidian and I'm a big fan, easy to use for the most part and I can easy integrate it into other things so notes are getting thrown into there for me to refer to later.
@@ -119,18 +121,17 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 **Collating Information**: I collate stuff in one place using [Readwise Reader](https://readwise.io/read)
 - This is something new for me and instead of death by emails and bookmarks I now just chuck papers, blog posts, articles and have all newsletters run through this. The best part is that I can highlight things and make notes on there, these notes then sync to Obsidian and now I have something in my vault. Can do the same with Youtube videos too and it works for me.
 
-**CLI**: [iTerm2](https://iterm2.com/)
-- Nice to work with, split views are great and [OhMyZSH](https://ohmyz.sh/) just makes things look so nice and clean.
-
-**Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
-- Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
-
+**Mindmaps**: I use [Miro](https://miro.com/) in the browser and desktop and [Mindnode](https://www.mindnode.com/) on iOS
+- Miro has been a go to tool for mindmaps and also for way more, I was introduced to Miro when doing a Design Thinking course at Cisco years agao and since then it's facilitated loads of great chats, meetings, workshops and I personally use it to lay out ideas and thoughts too. Mindnode works really well for mindmaps on iOS too, and all of this can always be pulled into Obsidian along with any notes on a subject.
 ---
 
 ## Repos and Other Resources 🎓
 
 **Awesome Security**: https://github.com/okhosting/awesome-cyber-security
 - This Github repo links out to a bunch of community gathered resources, really varied and there is almost too much to run through but if you're looking for something it'll likely be linked in one of the other repos, great stuff
+
+**Awesome Secure Defaults**: https://github.com/tldrsec/awesome-secure-defaults
+- Recently added this is a great curated set of secure by default open source libraries you can use today.
 
 **Threat Modeling**: https://shellsharks.com/threat-modeling
 - One of my favourite resources for threat modeling, lots to learn
@@ -143,3 +144,6 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 
 **Starting Up Security**: https://scrty.io/
 - Ryan McGeehan's excellent writing aimed at new leadership for new security teams
+
+**Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
+- Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
