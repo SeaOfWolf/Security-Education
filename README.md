@@ -145,5 +145,8 @@ _Skim judiciously_. You can get the key ideas of most papers just by reading the
 **Starting Up Security**: https://scrty.io/
 - Ryan McGeehan's excellent writing aimed at new leadership for new security teams
 
+**Semgrep Academy**: [https://academy.semgrep.dev/](https://academy.semgrep.dev/)
+- The amazing [Tanya Janka](https://www.linkedin.com/in/tanya-janca/) joined Semgrep and brought WeHackPurple with her and now there's Semgrep Academy
+
 **Colour and Design**: [Colour Contrast by WebAIM](https://webaim.org/resources/contrastchecker/)
 - Accessibility is key, not just important. This is a nice simple colour contrast tool that's easy to use and means you can start by making sure you're making accessible decisions from the start. There's a lot more in colour theory you can go into but this is just a nice simple tool.
